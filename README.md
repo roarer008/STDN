@@ -1,4 +1,4 @@
-# mycode
+# STDN
 JiNan dataset will be available after paper is accepted.
 
 Run the model in PeMS04:
