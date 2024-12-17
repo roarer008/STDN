@@ -1,5 +1,5 @@
 # STDN
-JiNan dataset will be available after paper is accepted.
+JiNan dataset will be available soon.
 
 Run the model in PeMS04:
 ```
