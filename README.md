@@ -1,7 +1,6 @@
 # STDN
 
 A pytorch implementation for the paper: **[Spatiotemporal-aware Trend-Seasonality Decomposition Network for Traffic Flow Forecasting](https://arxiv.org/abs/2502.12213)**
-JiNan dataset will be available soon.
 
 Run the model in PeMS04:
 ```
@@ -9,6 +8,7 @@ python train.py
 ```
 The default setting is in conf/PEMSD4_1dim_12.conf
 
+JiNan dataset will be available soon.
 # Environment
 ```
 python 3.9.19
