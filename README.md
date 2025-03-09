@@ -35,3 +35,16 @@ numpy 1.26.4
 # JiNan dataset
 
 For the Jinan dataset, we selected 406 intersection nodes in Jinan, China. At the same time, for safety reasons, we provided the relative longitude and latitude of the nodes.
+
+#Citation
+
+If you find our work is helpful, please cite as:
+
+```
+@inproceedings{cao2025STDN,
+  title={Spatiotemporal-aware Trend-Seasonality Decomposition Network for Traffic Flow Forecasting},
+  author={Cao, Lingxiao and Wang, Bin and Jiang, Guiyuan and Yu, Yanwei and Dong, Junyu},
+  booktitle={AAAI},
+  year={2025}
+}
+```
