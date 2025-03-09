@@ -21,3 +21,6 @@ python 3.10.14
 torch 2.4.1
 numpy 1.26.4
 ```
+
+You can download the data from:
+Google Drive: https://drive.google.com/drive/folders/1oo-eO41kbQS8aDyFWER66DdPT2k3k8_m?usp=sharing
