@@ -2,7 +2,12 @@
 
 A pytorch implementation for the paper: **[Spatiotemporal-aware Trend-Seasonality Decomposition Network for Traffic Flow Forecasting](https://arxiv.org/abs/2502.12213)**
 
-Run the model in PeMS04:
+Run the model in JiNan or PeMS:
+first:
+```
+python prepareData.py
+```
+second:
 ```
 python train.py
 ```
