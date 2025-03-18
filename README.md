@@ -2,7 +2,7 @@
 
 A pytorch implementation for the paper: **[Spatiotemporal-aware Trend-Seasonality Decomposition Network for Traffic Flow Forecasting](https://arxiv.org/abs/2502.12213)**
 
-Run the model in JiNan or PeMS:
+## Run the model in JiNan or PeMS:
 
 first:
 ```
@@ -12,9 +12,10 @@ second:
 ```
 python train.py
 ```
+
 The default setting is in conf/JiNan_1dim_12.conf
  
-You can download the data from:
+## Download the data from:
 
 Google Drive: https://drive.google.com/drive/folders/1oo-eO41kbQS8aDyFWER66DdPT2k3k8_m?usp=sharing
 
