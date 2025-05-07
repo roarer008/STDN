@@ -42,10 +42,13 @@ For the Jinan dataset, we selected 406 intersection nodes in Jinan, China. At th
 If you find our work is helpful, please cite as:
 
 ```
-@inproceedings{cao2025STDN,
+@inproceedings{cao2025spatiotemporal,
   title={Spatiotemporal-aware Trend-Seasonality Decomposition Network for Traffic Flow Forecasting},
   author={Cao, Lingxiao and Wang, Bin and Jiang, Guiyuan and Yu, Yanwei and Dong, Junyu},
-  booktitle={AAAI},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={39},
+  number={11},
+  pages={11463--11471},
   year={2025}
 }
 ```
